@@ -4,6 +4,9 @@
 
 [Xianfeng Han](https://scholar.google.com/citations?user=4FaCTFgAAAAJ&hl=en) · [Hamid Laga](https://sites.google.com/view/hamidlaga) · [Mohammed Bennamoun](https://research-repository.uwa.edu.au/en/persons/mohammed-bennamoun) 
 
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 43(5), pp. 1578-1604, 2021
+
+
 ### [Paper](https://ieeexplore.ieee.org/abstract/document/8908779) | [Abstract](#abstract) | [Citation](#citation) | [Chronological Overview](#overview) | [Updates](#updates)  | [Contributors](#contributors)
 
 </div>
@@ -81,7 +84,7 @@ If our survey helps in your research, please consider citing the following paper
     @article{han2019image,
         title={Image-based 3D object reconstruction: State-of-the-art and trends in the deep learning era},
         author={Han, Xian-Feng and Laga, Hamid and Bennamoun, Mohammed},
-        journal={IEEE transactions on pattern analysis and machine intelligence},
+        journal={IEEE Transactions on Pattern Analysis and Machine Itelligence},
         volume={43},
         number={5},
         pages={1578--1604},
