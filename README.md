@@ -6,6 +6,7 @@
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 43(5), pp. 1578-1604, 2021
 
+<p align="center"> <img src="./assets/reconstruction.png" width="95%"> </p>
 
 ### [Paper](https://ieeexplore.ieee.org/abstract/document/8908779) | [Abstract](#abstract) | [Citation](#citation) | [Chronological Overview](#overview) | [Updates](#updates)  | [Contributors](#contributors)
 
