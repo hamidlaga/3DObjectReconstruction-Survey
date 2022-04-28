@@ -4,11 +4,10 @@
 
 [Xianfeng Han](https://scholar.google.com/citations?user=4FaCTFgAAAAJ&hl=en) · [Hamid Laga](https://sites.google.com/view/hamidlaga) · [Mohammed Bennamoun](https://research-repository.uwa.edu.au/en/persons/mohammed-bennamoun) 
 
-### [Paper](https://ieeexplore.ieee.org/abstract/document/8908779) | [Abstract](#abstract) | [Datasets](#datasets) | [Chronological Overview](#overview) | [Benchmarks](#benchmarks)
+### [Paper](https://ieeexplore.ieee.org/abstract/document/8908779) | [Abstract](#abstract) | [Cittaion](#citation) | [Chronological Overview](#overview) | [Updates](#updates)  | [Contributors](#contributors)
 
 </div>
 
-**[Update]** We are collecting related papers between 2019 to 2022 (in progress).
 
 ## Abstract
 
@@ -74,22 +73,6 @@ Organization of the Survey
 └── Conclusion and Future Directions
 ```
 
-## Datasets
-
-#### Summary of the Datasets
-
-<p align="center"> <img src="./assets/datasets.png" width="95%"> </p>
-
-## Overview
-
-### Chronological Overview
-
-<p align="center"> <img src="./assets/timeline.png" width="95%"> </p>
-
-## Benchmarks
-
-<p align="center"> <img src="./assets/benchmarks.png" width="95%"> </p>
-
 ## Citation
 
 If our survey helps in your research, please consider citing the following paper:
@@ -104,4 +87,21 @@ If our survey helps in your research, please consider citing the following paper
         year={2019},
         publisher={IEEE}
     }
-    
+    <p align="center"> <img src="./assets/datasets.png" width="95%"> </p>
+
+## Overview
+
+### Chronological Overview
+
+Coming soon ....
+
+## Updates
+We are currently collecting the papers that appeared between 2020 and 2022. Stay tuned ...
+
+## Contributors
+
+-- [Hamid Laga](https://sites.google.com/view/hamidlaga)
+-- [Xianfeng Han](https://scholar.google.com/citations?user=4FaCTFgAAAAJ&hl=en)
+-- [Mohammed Bennamoun](https://research-repository.uwa.edu.au/en/persons/mohammed-bennamoun) 
+
+
