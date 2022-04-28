@@ -72,6 +72,11 @@ Organization of the Survey
 │   └──  Comparison and Discussion
 └── Conclusion and Future Directions
 ```
+## Overview
+
+### Chronological Overview
+
+Coming soon ....
 
 ## Citation
 
@@ -91,19 +96,15 @@ If our survey helps in your research, please consider citing the following paper
 ```
 
 
-## Overview
 
-### Chronological Overview
-
-Coming soon ....
 
 ## Updates
 We are currently collecting the papers that appeared between 2020 and 2022. Stay tuned ...
 
 ## Contributors
 
-- [Hamid Laga](https://sites.google.com/view/hamidlaga)
-- [Xianfeng Han](https://scholar.google.com/citations?user=4FaCTFgAAAAJ&hl=en)
-- [Mohammed Bennamoun](https://research-repository.uwa.edu.au/en/persons/mohammed-bennamoun) 
+- [Hamid Laga](https://sites.google.com/view/hamidlaga) (Murdoch University, Australia)
+- [Xianfeng Han](https://scholar.google.com/citations?user=4FaCTFgAAAAJ&hl=en) (South West University, China)
+- [Mohammed Bennamoun](https://research-repository.uwa.edu.au/en/persons/mohammed-bennamoun) (University of Western Australia, Australia)
 
 
