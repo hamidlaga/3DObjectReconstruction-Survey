@@ -94,9 +94,14 @@ Organization of the Survey
 
 If our survey helps in your research, please consider citing the following paper:
 
-    @article{tian2022hmrsurvey,
-      title = {Recovering 3D Human Mesh from Monocular Images: A Survey},
-      author = {Tian, Yating and Zhang, Hongwen and Liu, Yebin and Wang, Limin},
-      journal = {arXiv preprint arXiv:2203.01923},
-      year = {2022},
+    @article{han2019image,
+        title={Image-based 3D object reconstruction: State-of-the-art and trends in the deep learning era},
+        author={Han, Xian-Feng and Laga, Hamid and Bennamoun, Mohammed},
+        journal={IEEE transactions on pattern analysis and machine intelligence},
+        volume={43},
+        number={5},
+        pages={1578--1604},
+        year={2019},
+        publisher={IEEE}
     }
+    
