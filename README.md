@@ -4,7 +4,7 @@
 
 [Xianfeng Han](https://scholar.google.com/citations?user=4FaCTFgAAAAJ&hl=en) · [Hamid Laga](https://sites.google.com/view/hamidlaga) · [Mohammed Bennamoun](https://research-repository.uwa.edu.au/en/persons/mohammed-bennamoun) 
 
-### [Paper](https://ieeexplore.ieee.org/abstract/document/8908779) | [Abstract](#abstract) | [Cittaion](#citation) | [Chronological Overview](#overview) | [Updates](#updates)  | [Contributors](#contributors)
+### [Paper](https://ieeexplore.ieee.org/abstract/document/8908779) | [Abstract](#abstract) | [Citation](#citation) | [Chronological Overview](#overview) | [Updates](#updates)  | [Contributors](#contributors)
 
 </div>
 
@@ -77,6 +77,7 @@ Organization of the Survey
 
 If our survey helps in your research, please consider citing the following paper:
 
+```bibtex
     @article{han2019image,
         title={Image-based 3D object reconstruction: State-of-the-art and trends in the deep learning era},
         author={Han, Xian-Feng and Laga, Hamid and Bennamoun, Mohammed},
@@ -88,6 +89,8 @@ If our survey helps in your research, please consider citing the following paper
         publisher={IEEE}
     }
     <p align="center"> <img src="./assets/datasets.png" width="95%"> </p>
+```
+
 
 ## Overview
 
