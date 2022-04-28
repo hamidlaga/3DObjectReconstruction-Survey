@@ -72,11 +72,6 @@ Organization of the Survey
 │   └──  Comparison and Discussion
 └── Conclusion and Future Directions
 ```
-## Overview
-
-### Chronological Overview
-
-Coming soon ....
 
 ## Citation
 
@@ -96,7 +91,11 @@ If our survey helps in your research, please consider citing the following paper
 ```
 
 
+## Overview
 
+### Chronological Overview
+
+Coming soon ....
 
 ## Updates
 We are currently collecting the papers that appeared between 2020 and 2022. Stay tuned ...
