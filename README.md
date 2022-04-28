@@ -88,7 +88,6 @@ If our survey helps in your research, please consider citing the following paper
         year={2019},
         publisher={IEEE}
     }
-    <p align="center"> <img src="./assets/datasets.png" width="95%"> </p>
 ```
 
 
@@ -103,8 +102,8 @@ We are currently collecting the papers that appeared between 2020 and 2022. Stay
 
 ## Contributors
 
--- [Hamid Laga](https://sites.google.com/view/hamidlaga)
--- [Xianfeng Han](https://scholar.google.com/citations?user=4FaCTFgAAAAJ&hl=en)
--- [Mohammed Bennamoun](https://research-repository.uwa.edu.au/en/persons/mohammed-bennamoun) 
+- [Hamid Laga](https://sites.google.com/view/hamidlaga)
+- [Xianfeng Han](https://scholar.google.com/citations?user=4FaCTFgAAAAJ&hl=en)
+- [Mohammed Bennamoun](https://research-repository.uwa.edu.au/en/persons/mohammed-bennamoun) 
 
 
